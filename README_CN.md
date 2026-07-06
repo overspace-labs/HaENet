@@ -1,5 +1,5 @@
 <div align="center">
-<img src="/resource/image/logo.png" style="width: 20%" />
+<img src="https://github.com/overspace-labs/HaE/raw/main/resource/image/logo.png" style="width: 20%" />
 <h3>HaE Network</h3>
 <h5>第一作者： <a href="https://github.com/gh0stkey">EvilChen</a><br>第二作者： <a href="https://github.com/0chencc">0chencc</a>（米斯特安全团队）<br>第三作者： <a href="https://github.com/vaycore">vaycore</a>（独立安全研究员）<br>第四作者：<a href="https://github.com/shanshanerxi">MingXi</a>（米斯特安全团队）</h5>
 </div>
