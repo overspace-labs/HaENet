@@ -12,15 +12,6 @@ By utilizing **multi-engine** customized regular expressions, HaE Network can ac
 
 > With the adoption of front-end and back-end separation development models in modern web applications, the amount of captured HTTP request traffic during routine vulnerability discovery has correspondingly increased. Fully assessing a web application often requires spending considerable time on irrelevant messages. **The emergence of HaE Network aims to address such situations**, by using HaE, you can **effectively reduce** testing time, focusing more effort on **valuable and meaningful** messages, thus **improving the efficiency of vulnerability discovery**.
 
-GitHub project address: https://github.com/overspace-labs/HaENet
-
-GitCode project address: https://gitcode.com/gh0stkey/HaE
-
-**Awards and Recognitions**:
-
-1. [Selected for the 2022 KCon Arsenal](https://mp.weixin.qq.com/s/JohMsl1WD29LHCHuLf8mVQ)
-2. [Recognized as a GitCode G-Star Project](https://gitcode.com/gh0stkey/HaE)
-
 **Notes and Precautions**:
 
 1. Starting with HaE Network version 3.0, development is done using the `Montoya API`. To use the new version of HaE, you need to upgrade your BurpSuite version (>=2023.12.1).
@@ -31,7 +22,7 @@ GitCode project address: https://gitcode.com/gh0stkey/HaE
 **Plugin Installation**: `Extender - Extensions - Add - Select File - Next`
 
 When you load `HaE` for the first time, it will load the offline rule database from the Jar package. If you need to update the rules, click `Reinit` to reinitialize. The address of the built-in rule database can be found on GitHub:  
-`https://github.com/overspace-labs/HaENet/blob/main/src/main/resources/rules/Rules.yml`
+`https://github.com/overspace-labs/HaENet/blob/main/sources/src/main/resources/rules/Rules.yml`
 
 The configuration file (`Config.yml`) and rule file (`Rules.yml`) are stored in a fixed directory:
 
