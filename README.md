@@ -1,5 +1,5 @@
 <div align="center">
-<img src="/resource/image/logo.png" style="width: 20%" />
+<img src="https://github.com/overspace-labs/HaE/raw/main/resource/image/logo.png" style="width: 20%" />
 <h3>HaE Network</h3>
 <h5>First Author: <a href="https://github.com/gh0stkey">EvilChen</a><br>Second Author: <a href="https://github.com/0chencc">0chencc</a>(Mystery Security Team)<br>Third Author: <a href="https://github.com/vaycore">vaycore</a>(Independent Security Researcher)<br>Fourth Author: <a href="https://github.com/shanshanerxi">MingXi</a>(Mystery Security Team)</h5>
 </div>
